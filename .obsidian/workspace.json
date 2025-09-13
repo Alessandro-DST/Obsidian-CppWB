@@ -170,5 +170,9 @@
     }
   },
   "active": "f1966d9197ca7bbe",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "private/update_repo.sh",
+    "private",
+    "update_repo.sh"
+  ]
 }
