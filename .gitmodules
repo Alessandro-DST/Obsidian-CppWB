@@ -1,3 +1,6 @@
 [submodule "exercise1"]
 	path = exercise1
 	url = git@github.com:Alessandro-DST/Cpp-WB-exercise-1.git
+[submodule "exercise2"]
+	path = exercise2
+	url = git@github.com:Alessandro-DST/Cpp-WB-exercise-2.git
