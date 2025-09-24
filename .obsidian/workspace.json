@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "General C++ Concepts.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -49,7 +49,8 @@
               "title": "Smart Pointers"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 252.5,
+    "collapsed": true
   },
   "right": {
     "id": "1627863dc82d69bf",
@@ -197,22 +199,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "a9e23f6b4ee13746",
+  "active": "24f963bee2594dae",
   "lastOpenFiles": [
+    "C++ Workbook - focused, technical & practical.md",
+    "exercise2/tests/resourcepool_test.cpp",
+    "exercise2/tests/fileguard_test.cpp",
+    "exercise2/fileguard_test.cpp",
+    "exercise2/tests",
+    "exercise2/mylib/ResourcePool.cpp",
+    "exercise2/mylib/FileGuard.cpp",
+    "exercise2/mylib",
+    "exercise2/include/mylib/ResourcePool.h",
+    "exercise2/include/mylib/FileGuard.h",
+    "exercise2/include/mylib",
+    "exercise2/README.md",
     "Smart Pointers.md",
     "General C++ Concepts.md",
-    "C++ Workbook - focused, technical & practical.md",
     "README.md",
-    "exercise1/build/_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/compiler_depend.internal",
-    "exercise1/build/_deps/googletest-build/googletest/CMakeFiles/gtest.dir/compiler_depend.internal",
-    "exercise1/build/_deps/googletest-build/googletest/CMakeFiles/gtest.dir/compiler_depend.internal.tmp09340",
-    "exercise1/build/_deps/googletest-build/googletest/CMakeFiles/gtest.dir/compiler_depend.make.tmp3ae56",
-    "exercise1/build/CMakeFiles/my_lib.dir/compiler_depend.internal.tmp3c3c3",
-    "exercise1/build/CMakeFiles/my_lib.dir/compiler_depend.make.tmp51381",
-    "exercise1/build/CMakeFiles/Progress/3",
-    "exercise1/build/lib/st4jCYmQ",
-    "exercise1/build/lib/libgtest_main.a",
-    "exercise1/build/CMakeFiles/Progress/12",
     "exercise1/build/_deps/ex-googletest-populate1234/googletest-03597a01ee50ed33e9dfd640b249b4be3799d395/googletest/docs/README.md",
     "exercise1/build/_deps/ex-googletest-populate1234/googletest-03597a01ee50ed33e9dfd640b249b4be3799d395/googletest/README.md",
     "exercise1/build/_deps/ex-googletest-populate1234/googletest-03597a01ee50ed33e9dfd640b249b4be3799d395/googlemock/include/gmock/internal/custom/README.md",
@@ -232,8 +235,6 @@
     "exercise1/build/_deps/ex-googletest-populate1234/googletest-03597a01ee50ed33e9dfd640b249b4be3799d395/docs/index.md",
     "exercise1/build/_deps/ex-googletest-populate1234/googletest-03597a01ee50ed33e9dfd640b249b4be3799d395/docs/gmock_for_dummies.md",
     "exercise1/build/_deps/ex-googletest-populate1234/googletest-03597a01ee50ed33e9dfd640b249b4be3799d395/docs/gmock_faq.md",
-    "exercise1/build/_deps/ex-googletest-populate1234/googletest-03597a01ee50ed33e9dfd640b249b4be3799d395/docs/gmock_cook_book.md",
-    "exercise1/build/_deps/ex-googletest-populate1234/googletest-03597a01ee50ed33e9dfd640b249b4be3799d395/docs/gmock_cheat_sheet.md",
-    "exercise1/build/_deps/ex-googletest-populate1234/googletest-03597a01ee50ed33e9dfd640b249b4be3799d395/docs/faq.md"
+    "exercise1/build/_deps/ex-googletest-populate1234/googletest-03597a01ee50ed33e9dfd640b249b4be3799d395/docs/gmock_cook_book.md"
   ]
 }
